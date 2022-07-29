@@ -1,2 +1,2 @@
 # CoreJava
-It is My core java programs Repository
+It is my core java programs Repository
